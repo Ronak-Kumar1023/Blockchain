@@ -1,4 +1,4 @@
-# Blockchain Project
+# Blockchain
 
 This project implements a basic blockchain and a simple cryptocurrency using Python. The blockchain is managed by a Flask web application that allows nodes to interact with the blockchain, mine new blocks, and maintain consensus across a distributed network.
 
