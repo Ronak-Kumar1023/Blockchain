@@ -16,7 +16,6 @@ This project implements a basic blockchain and a simple cryptocurrency using Pyt
 
 ```bash
 git clone https://github.com/Ronak-Kumar1023/Blockchain.git
-cd blockchain-project
 ```
 
 2. **Install dependencies:**
